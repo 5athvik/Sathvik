@@ -26,4 +26,4 @@
 ![Sathvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5athvik&show_icons=true&theme=github_dark&count_private=true)
 
 ## 🌍 Connect with Me  
-🔗 [Portfolio](https://5athvik.github.io/My_Website/) | [LinkedIn](https://linkedin.com/in/sathvik-jonnalagadda) | [Twitter](https://twitter.com/yourprofile)  
+🔗 [Portfolio](https://5athvik.github.io/My_Website/) | [LinkedIn](https://linkedin.com/in/sathvik-jonnalagadda) | [Twitter](https://twitter.com/Adhi_Unte_Chalu)  
